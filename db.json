@@ -1,0 +1,52 @@
+{
+    "men": [
+        {
+            "id": 1,
+            "title": "Soho Heritage Harrington Jacket",
+            "image": "https://assets.burberry.com/is/image/Burberryltd/93FB0DD4-CC1E-4F10-8A59-975E389BA547?$BBY_V2_SL_1x1$&wid=1251&hei=1251",
+            "price": 1890.00,
+            "price_c": 2490.00,
+            "discount": 24.00,
+            "size": "XL",
+            "color": "Black",
+            "label": "RELAXED FIT",
+            "category": "Jacket"
+        },
+        {
+            "id": 2,
+            "title": "Logo Appliqué Lightweight Hooded Jacket",
+            "image": "https://assets.burberry.com/is/image/Burberryltd/369E2F9B-9CD2-4000-9794-887E1BD7F277?$BBY_V2_SL_3x4$&wid=400&hei=534",
+            "price": 1350.00,
+            "price_c": 2490.00,
+            "discount": 45.78,
+            "size": "XXL",
+            "color": "Ink",
+            "label": "New in",
+            "category": "Jacket"
+        },
+        {
+            "id": 3,
+            "title": "Mid-length Kensington Heritage Trench Coat",
+            "image": "https://assets.burberry.com/is/image/Burberryltd/5479F2F2-9F2B-4909-88FE-AB243C1EFCFC?$BBY_V2_SL_3x4$&wid=400&hei=534",
+            "price": 2490.00,
+            "price_c": 2990.00,
+            "discount": 20.00,
+            "size": "XL",
+            "color": "Honey",
+            "label": "RELAXED FIT",
+            "category": "Coat"
+        },
+        {
+            "id": 4,
+            "title": "Short Camden Heritage Car Coat",
+            "image": "https://assets.burberry.com/is/image/Burberryltd/3C346B48-4969-4B83-B147-DB00C1BF44BF?$BBY_V2_SL_3x4$&wid=400&hei=534",
+            "price": 2050.00,
+            "price_c": 2490.00,
+            "discount": 21.46,
+            "size": "XL",
+            "color": "Coal Blue",
+            "label": "RELAXED FIT",
+            "category": "Coat"
+        }
+    ]
+}
