@@ -1198,7 +1198,8 @@
       "category": "Coat",
       "cname": "Pushpa raj",
       "cid": "56",
-      "quantity": "2"
+      "quantity": "2",
+      "status": "Pending"
     },
     {
       "id": 6,
@@ -1213,7 +1214,8 @@
       "category": "Jacket",
       "cname": "Aryan Singh",
       "cid": "76",
-      "quantity": "5"
+      "quantity": "5",
+      "status": "Done"
     },
     {
       "id": 14,
@@ -1228,7 +1230,8 @@
       "category": "Sneakers",
       "cname": "venu rao",
       "cid": "34",
-      "quantity": "2"
+      "quantity": "2",
+      "status": "Delivered"
     },
     {
       "id": 23,
@@ -1243,7 +1246,8 @@
       "category": "Jacket",
       "cname": "Arjun Pal",
       "cid": "65",
-      "quantity": "2"
+      "quantity": "2",
+      "status": "Pending"
     },
     {
       "id": 24,
@@ -1258,7 +1262,8 @@
       "category": "Jacket",
       "cname": "Rupa Singha",
       "cid": "96",
-      "quantity": "3"
+      "quantity": "3",
+      "status": "In Transit"
     },
     {
       "id": 98,
@@ -1273,7 +1278,8 @@
       "category": "Accessories",
       "cname": "Sana Roy",
       "cid": "16",
-      "quantity": "1"
+      "quantity": "1",
+      "status": "Done"
     },
     {
       "id": 89,
@@ -1288,7 +1294,8 @@
       "category": "Clothing",
       "cname": "Soma Rathore",
       "cid": "5",
-      "quantity": "1"
+      "quantity": "1",
+      "status": "Pending"
     },
     {
       "id": 55,
@@ -1303,7 +1310,8 @@
       "category": "Boots",
       "cname": "Rakesh Ingale",
       "cid": "87",
-      "quantity": "2"
+      "quantity": "2",
+      "status": "Delivered"
     },
     {
       "id": 63,
@@ -1318,7 +1326,8 @@
       "category": "Accessories",
       "cname": "Samsur Khan",
       "cid": "26",
-      "quantity": "3"
+      "quantity": "3",
+      "status": "Done"
     },
     {
       "id": 55,
@@ -1333,7 +1342,8 @@
       "category": "Boots",
       "cname": "Raju Shetty",
       "cid": "66",
-      "quantity": "2"
+      "quantity": "2",
+      "status": "In Transit"
     }
   ]
 }
