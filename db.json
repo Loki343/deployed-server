@@ -2890,5 +2890,16 @@
       "category": "Clothing"
     }
   ],
-  "cart":[]
+  "cart": [
+    {
+      "image": "https://assets.burberry.com/is/image/Burberryltd/369E2F9B-9CD2-4000-9794-887E1BD7F277?$BBY_V2_SL_3x4$&wid=400&hei=534",
+      "title": "Logo Appliqué Lightweight Hooded Jacket",
+      "id": 2,
+      "discount": 73,
+      "label": "New in",
+      "price": 1350,
+      "price_c": 2490,
+      "quantity": 1
+    }
+  ]
 }
